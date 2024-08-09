@@ -8,11 +8,13 @@ The dataset includes Persian tweets about Arbaeen and is intended for use in sen
 
 ## Accessing the Dataset
 
-The dataset is publicly available; however, due to the sensitive nature of the data, access is controlled. To request access to the dataset, please follow these steps:
+The dataset is publicly available; however, access to the data is controlled. To request access, please follow these steps:
 
-1. **Submit a Request**: Open an issue in this repository and provide a brief explanation of your research and how you intend to use the dataset. Include any relevant details about your project.
+1. **Submit a Request**: Open an issue in this repository and provide a brief explanation of your research, including the purpose of your study and how you intend to use the dataset. Be sure to include any relevant details about your project.
 
-2. **Review Process**: Your request will be reviewed, and you will be contacted with further instructions. Please be patient as this process may take some time.
+2. **Review Process**: Your request will be reviewed, and you will be contacted with further instructions. This process may take some time, so please be patient.
+
+3. **Data Access**: Once your request is approved, you will receive instructions on how to download the dataset. 
 
 ## Files
 
@@ -22,7 +24,9 @@ The dataset is publicly available; however, due to the sensitive nature of the d
 
 ## License
 
-The dataset is provided under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the data as long as appropriate credit is given.
+The dataset is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the data as long as appropriate credit is given.
+
+For more details about this license, please visit [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Contact
 
@@ -35,4 +39,3 @@ Thank you for using this dataset. We appreciate your interest in conducting rese
 ---
 
 **Note**: Please ensure that your use of the dataset complies with any applicable laws and ethical guidelines.
-
